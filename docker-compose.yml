@@ -36,3 +36,4 @@ networks:
 volumes:
   postgres:
   pgadmin:
+  postgres-fraud:

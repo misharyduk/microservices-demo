@@ -11,6 +11,7 @@
   <url>https://mirkud.org</url>
   <modules>
     <module>customer</module>
+    <module>fraud</module>
   </modules>
 
   <properties>
